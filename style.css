@@ -525,6 +525,10 @@ section.recent-work .projects .project .thumbnail {
     flex-direction: column;
     gap: 1rem;
 }
+.thumbnail > img {
+    width: 300px;
+    height: 300px;
+}
 
 section.recent-work .projects .project .action {
     display: flex;
